@@ -1,4 +1,4 @@
 # vim-nearley
 
-Very basic syntax files for [nearley](http://nearley.js.org/) parser files. Not
-very good, but better than nothing.
+*DEPRECATED* Check out https://github.com/tjvr/vim-nearley instead
+
